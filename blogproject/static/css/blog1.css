@@ -1,0 +1,38 @@
+.content{
+  width:60%;
+  float:left;
+  padding:0 0 0 30px;
+  background: brown;
+  height:100%;
+}
+.sidebar{
+  width:40%;
+  float:right;
+  padding: 10px;
+  background:lightgreen;
+  height:100%;
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid yellow ;
+  padding-bottom: 10px;
+}
+body{
+  color:white;
+  background: brown;
+}
+#date{
+  color:white;
+  font-size: 12px;
+  font-style: italic;
+}
+a{
+  color:#ffffb3;
+}
+input[type='text']{
+  background:orange;
+  color:yellow;
+}
+.tagbox{
+  border:1px solid orange;
+}
